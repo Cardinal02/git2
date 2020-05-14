@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
 	{
 		"color": "red",
 		"value": "#f00"
@@ -29,3 +30,30 @@
     }
 ]
 
+=======
+    {
+      "name": "Meowsy",
+      "species" : "cat",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      }
+    },
+    {
+      "name": "Barky",
+      "species" : "dog",
+      "foods": {
+        "likes": ["bones", "carrots"],
+        "dislikes": ["tuna"]
+      }
+    },
+    {
+      "name": "Purrpaws",
+      "species" : "cat",
+      "foods": {
+        "likes": ["mice"],
+        "dislikes": ["cookies"]
+      }
+    }
+  ]
+>>>>>>> cd608a31600cc71b3dd28cecb671c0f0521ebe93
